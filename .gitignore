@@ -1,0 +1,11 @@
+# Ignoruj pliki wygenerowane przez systemy operacyjne
+.DS_Store
+Thumbs.db
+
+# Ignoruj katalogi i pliki generowane przez Node.js
+node_modules/
+package-lock.json
+
+# Ignoruj katalogi i pliki generowane przez IDE
+.idea/
+.vscode/
